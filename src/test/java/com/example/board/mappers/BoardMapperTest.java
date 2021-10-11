@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 @Slf4j
 public class BoardMapperTest {
-
+    //주석 테스트
     @Autowired
     private BoardMapper mapper;
 
